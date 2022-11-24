@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otávio</h1>
-<h3 align="center">Developer FullStack PHP.</h3>
+<h3 align="center">Full Stack PHP Developer.</h3>
 
 <div align="center">
   <a href="https://github.com/distro104">
