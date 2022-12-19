@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="README.css">
 
-<div class="header">
+<div class="header" style="text-align:center;">
     <h1 >Hello 👋, I'm Otávio!</h1>
 </div>
 
