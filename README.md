@@ -4,11 +4,11 @@
     <h1 >Hello 👋, I'm Otávio!</h1>
 </div>
 
-<div class="about">
+<div class="about" style="text-align:center;">
     <h3>Fullstack developer PHP.</h3>
 </div>
 
-<div class="conection">
+<div class="conection" style="text-align:center;">
     <h3>Connect with me:</h3>
     <p>
         <a href="https://twitter.com/otaviojc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otaviojc" height="30" width="40" /></a>
@@ -18,7 +18,7 @@
     </p>
 </div>
 
-<div class="knowledge">
+<div class="knowledge" style="text-align:center;">
     <h3>Languages and Tools:</h3>
     <p>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -31,7 +31,7 @@
     </p>
 </div>
 
-<div class="activity">
+<div class="activity" style="text-align:center;">
         <img src="https://github-readme-stats.vercel.app/api?username=distro104&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="distro104" />
 </div>
 
