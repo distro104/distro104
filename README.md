@@ -31,7 +31,3 @@
     </p>
 </div>
 
-<div class="activity" style="text-align:center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=distro104&show_icons=true&locale=en&theme=dark#gh-dark-mode-only" alt="distro104" />
-</div>
-
