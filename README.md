@@ -13,7 +13,6 @@
     <p>
         <a href="https://twitter.com/otaviojc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otaviojc" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/otaviojc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviojc" height="30" width="40" /></a>
-        <a href="https://instagram.com/luck_of_the_day" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luck_of_the_day" height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/otaviojc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="otaviojc" height="30" width="40" /></a>
     </p>
 </div>
