@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="README.css">
+<link rel="stylesheet" href="README.css"></link>
 
 <div class="header" style="text-align:center;">
     <h1 >Hello 👋, I'm Otávio!</h1>
@@ -29,5 +29,3 @@
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     </p>
 </div>
-
-</link>
