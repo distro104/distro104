@@ -18,3 +18,6 @@
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>
+
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distro104&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
