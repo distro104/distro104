@@ -1,9 +1,10 @@
 # Ola Bem vindo!
 
-<div style="display: flex; align-items: center;">
-  <p style="flex: 1; margin-left: 20px; ">
+<div style="display: flex; align: center;">
+  <p style="flex: 1; margin-left: 20px; align: right">
   Meu nome e Otávio sou desenvolvedor de software trabalhando na area de T.I a mais de 10 anos com diferentes banco de dados. Grande parte de minha experiência foi no desenvolvimento de relatorios utilizando o TOTVs com banco de dados Oracle mas tambem já trabalhei com Mysql, Firebird, PostgreSql e Oracle e a linguagem PHP. Atualmente procurando me aprofundar na linguagem PHP que gosto muito. Bem é isso caso queira estou a disposicao para convesar.
   </p>
+  <img src="assets/code.jpeg" width="20%" />
 </div>
 
 
