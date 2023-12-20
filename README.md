@@ -2,7 +2,7 @@
 
 <div style="display: flex; align: center;">
   <p style="flex: 1; margin-left: 20px; text-align: justify">
-  Meu nome é Otávio, sou desenvolvedor de software e trabalho na área de T.I. há mais de 10 anos, lidando com diferentes bancos de dados. Grande parte da minha experiência foi no desenvolvimento de relatórios utilizando o TOTVs com banco de dados Oracle, mas também já trabalhei com MySQL, Firebird, PostgreSQL e Oracle, utilizando a linguagem PHP. Atualmente, estou buscando aprofundar-me na linguagem PHP, que aprecio muito.
+  Meu nome é Otávio, sou desenvolvedor de software e trabalho na área de T.I. há mais de 10 anos, lidando com diferentes bancos de dados. Grande parte da minha experiência foi no desenvolvimento de relatórios utilizando o TOTVs com banco de dados Oracle, mas também já trabalhei com MySQL, Firebird, PostgreSQL e Oracle, utilizando a linguagem PHP. Atualmente, estou buscando aprofundar-me na linguagem PHP.
   </p>
 </div>
 
