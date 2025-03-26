@@ -6,7 +6,7 @@ Desenvolvedor de software com mais de 10 anos de experiência na área de T.I., 
 
 Grande parte do meu foco foi no desenvolvimento de relatórios utilizando o sistema TOTVs com banco de dados Oracle, onde adquiri uma sólida base em desenvolvimento de soluções personalizadas para clientes. Recentemente, estou me aprofundando ainda mais em PHP, buscando expandir meus conhecimentos e explorar novas possibilidades com essa poderosa linguagem.
 
-Estou sempre aberto a novos desafios e colaboro ativamente para melhorar e compartilhar minhas habilidades. Vamos construir algo incrível juntos!
+Estou sempre aberto a novos desafios e colaboro ativamente para melhorar e compartilhar minhas habilidades.
   </p>
 </div>
 
