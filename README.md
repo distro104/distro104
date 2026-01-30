@@ -2,7 +2,7 @@
 
 <div style="display: flex; align: center;">
   <p style="flex: 1; margin-left: 20px; text-align: justify">
-Desenvolvedor de software com mais de 10 anos de experiência na área de T.I., tenho uma paixão por resolver problemas e otimizar processos, especialmente no que diz respeito à manipulação de bancos de dados. Ao longo da minha carreira, trabalhei com diversas tecnologias, incluindo Oracle, MySQL, Firebird, PostgreSQL, e PHP.
+Desenvolvedor de software com mais de 10 anos de experiência na área de T.I., tenho uma paixão por resolver problemas e otimizar processos, especialmente no que diz respeito à manipulação de bancos de dados. Ao longo da minha carreira, trabalhei com diversas tecnologias, incluindo Oracle, MySQL, Firebird, PostgreSQL, Docker e PHP.
 
 Grande parte do meu foco foi no desenvolvimento de relatórios utilizando o sistema TOTVs com banco de dados Oracle, onde adquiri uma sólida base em desenvolvimento de soluções personalizadas para clientes. Recentemente, estou me aprofundando ainda mais em PHP, buscando expandir meus conhecimentos e explorar novas possibilidades com essa poderosa linguagem.
 
