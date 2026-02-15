@@ -13,6 +13,3 @@ Software Developer with 10+ years of experience in IT, specializing in database-
 <div >
 PHP • Laravel • Docker • Oracle • PostgreSQL • MySQL • MariaDb • Linux • GitHub
 </div>
-
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distro104&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
