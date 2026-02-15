@@ -5,7 +5,7 @@ Software Developer with 10+ years of experience in IT, specializing in database-
   </p>
 </div>
 ## Contact me:
-🔗 [LinkedIn](https://www.linkedin.com/in/otaviojc/)
+[LinkedIn](https://www.linkedin.com/in/otaviojc/)
 
 ## Technology:
 
