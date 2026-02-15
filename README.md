@@ -8,7 +8,7 @@ Software Developer with 10+ years of experience in IT, specializing in database-
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviojc/)
 
-## Tecnologias:
+## Technology:
 
 <div >
 PHP • Laravel • Docker • Oracle • PostgreSQL • MySQL • MariaDb • Linux • GitHub
