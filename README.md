@@ -4,7 +4,8 @@
 Software Developer with 10+ years of experience in IT, specializing in database-driven systems and reporting solutions. Strong background with Oracle and ERP environments, currently focused on PHP/Laravel development and modern backend practices.
   </p>
 </div>
-## Contact me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviojc/)
+## Contact me: 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviojc/)
 
 ## Technology:
 
