@@ -1,12 +1,10 @@
-# Welcame,
-<div style="display: flex; align: center;">
-  <p style="flex: 1; margin-left: 20px; text-align: justify">
-Software Developer with 10+ years of experience in IT, specializing in database-driven systems and reporting solutions. Strong background with Oracle and ERP environments, currently focused on PHP/Laravel development and modern backend practices.
-  </p>
-</div>
-
-## Technology:
-
-<div >
-PHP • Laravel • Docker • Oracle • PostgreSQL • MySQL • MariaDb • Linux • GitHub
-</div>
+# Bem vindo,
+### Desenvolvedor com experiência de mais de 10 anos em analise e desenvolvimento de projetos incluindo:
+#### TOTVs 
+> Acompanhamento de projetos incluindo desde sua implantação desenvolvimento de scripts(ADVPL) e relatórios para serem utilizados internamente principalmente nos módulos Educacional e Financeiro.  
+#### Banco de dados:
+> Desenvolvimento, criação e modelagem em bancos como Oracle, SqlServer, MariaDb, PostgreSql e desenvolvimento de scripts para os mesmos.
+#### PHP
+> Manutenção de projetos legados e acompanhamento, desenvolvimento de novos projetos
+#### Docker
+> Desenvolvimento de projetos para utilizar tecnologias como PHP com servidores nginx e banco de dados MariaDb
